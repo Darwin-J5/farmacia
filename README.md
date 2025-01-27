@@ -1,1 +1,1 @@
-# farmacia
+![Diagrama](farmacia/diagrama.png)
